@@ -1,7 +1,7 @@
 # Automatic Measurements of Fishes physical traits (version 2).
 
 > [!NOTE]
-> This digital tool was developed in connection to the [INDUCE](https://meerwissen.org/partnership-projects/induce/) project (2020-2022), as part of the [MeerWissen](https://meerwissen.org) (African-German Partners for Ocean Knowledge) initiative. The tool was developed by Gari Ciodaro Guerra ([@gariciodaro](https://github.com/gariciodaro)) under the supervision of [Ago Merico](https://www.leibniz-zmt.de/en/marine-tropics-research/who-we-are/agostino-merico.html) and [Sonia Bejarano](https://www.leibniz-zmt.de/en/marine-tropics-research/who-we-are/sonia-bejarano.html).
+> This digital tool was developed in connection to the [INDUCE](https://meerwissen.org/partnership-projects/induce/) project (2020-2022), as part of the [MeerWissen](https://meerwissen.org) (African-German Partners for Ocean Knowledge) initiative. The tool was developed by Gari Ciodaro Guerra ([@gariciodaro](https://github.com/gariciodaro)) under the supervision<br/> of [Ago Merico](https://www.leibniz-zmt.de/en/marine-tropics-research/who-we-are/agostino-merico.html) and [Sonia Bejarano](https://www.leibniz-zmt.de/en/marine-tropics-research/who-we-are/sonia-bejarano.html).
 
 ![](sample_fish.PNG)
 --------------------------------------------------------------
