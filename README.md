@@ -1,4 +1,4 @@
-# Automatic Measurements of Fishes physical traits V2.
+# Automatic Measurements of Fishes physical traits (version 2).
 
 ## Note: This digital tool was developed in connection to the [INDUCE](https://meerwissen.org/partnership-projects/induce/) project (2020-2022), as part of the [MeerWissen](https://meerwissen.org) (African-German Partners for Ocean Knowledge) initiative.
 
