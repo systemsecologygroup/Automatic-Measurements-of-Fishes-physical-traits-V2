@@ -1,5 +1,7 @@
 # Automatic Measurements of Fishes physical traits V2.
 
+Note: This digital tool was developed in connection to the INDUCE project (2020-2022), which was part of MeerWissen (African-German Partners for Ocean Knowledge) initiative.
+
 ![](sample_fish.PNG)
 --------------------------------------------------------------
 
